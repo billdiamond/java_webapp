@@ -1,4 +1,4 @@
-ROM java:8-jre
+#ROM java:8-jre
 #https://github.com/docker-library/tomcat
 
 ENV CATALINA_HOME /usr/local/tomcat
